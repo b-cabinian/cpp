@@ -1,10 +1,7 @@
 
 /* 
 Name: Brian Cabinian
-Class: CS10B
 Date: 22-11-10
-Instructor: Allen Zhao
-Filename: jaccard.cpp
 Description: This script takes in two string arrays and reports
 the jaccard index of those two sets.
 */
